@@ -1,0 +1,2 @@
+[34m2024-05-25 16:18:09.286 EDT [channelCmd] InitCmdFactory -> INFO 001[0m Endorser and orderer connections initialized
+Error: got unexpected status: FORBIDDEN -- config update for existing channel did not pass initial checks: implicit policy evaluation failed - 0 sub-policies were satisfied, but this policy requires 1 of the 'Writers' sub-policies to be satisfied: permission denied
